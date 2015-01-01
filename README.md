@@ -1,4 +1,4 @@
 Knowledge Base
 ==============
 
-* [Wiki](wiki)
+* [Wiki](https://github.com/oliverlietz/kb/wiki)

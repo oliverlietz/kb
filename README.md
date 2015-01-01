@@ -1,2 +1,4 @@
 Knowledge Base
 ==============
+
+* [Wiki](wiki)
